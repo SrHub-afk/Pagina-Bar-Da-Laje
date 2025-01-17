@@ -5,6 +5,7 @@ e onde também será possível adiquirir o bot para o discord que estou fazendo.
  
 irei atualizar vocês com as modificações feitas no bot e no site.
 espero que tenham gostado do meu primeiro projeto
+
 (https://srhub-afk.github.io/Pagina-Bar-Da-Laje/)
 
 ambos os projetos estão sendo feitos em conjunto com um amigo meu: @RenanDev06 
